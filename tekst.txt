@@ -1,1 +1,2 @@
-Tekst, który zapiszemy w pliku tekst.txt
+﻿Dane przed zapisem.
+A tak wyglądaja po zapisie
